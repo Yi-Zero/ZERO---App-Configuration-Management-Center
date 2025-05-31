@@ -11,7 +11,8 @@ ZERO - 应用配置管理中心是一款基于PHP+MySQL开发的应用配置信�
 ![Snipaste_2025-05-31_10-32-04](https://github.com/user-attachments/assets/551f7010-ed5b-45e2-9278-f301e5ef98af)
 
 ##### 配置信息界面：
-![Snipaste_2025-05-31_10-41-39](https://github.com/user-attachments/assets/84ae6681-c2fe-4bc9-a8d1-20627c778ee5)
+![Snipaste_2025-05-31_10-57-11](https://github.com/user-attachments/assets/fb0d95e5-a338-48f4-b42d-612bebfe7746)
+
 
 #### 部署要求：
 
