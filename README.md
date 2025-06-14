@@ -6,6 +6,9 @@
 
 ZERO - 应用配置管理中心是一款基于PHP+MySQL开发的应用配置信息云管理系统，功能简单易上手，界面简约清晰，易于部署，甚至只需要一台虚拟主机，就可以直接部署使用。
 
+
+更多其他信息请前往博客查看：[ZERO - 应用配置管理中心](https://yizero.top/index.php/2025/05/31/zero-app-configuration-management-center/)
+
 #### 系统截图：
 ##### 管理界面：
 ![Snipaste_2025-05-31_10-32-04](https://github.com/user-attachments/assets/551f7010-ed5b-45e2-9278-f301e5ef98af)
